@@ -28,6 +28,7 @@
 <br/>
 
 ## 代理模式（静态代理、动态代理）
+&emsp;&emsp;代理模式的定义：给某一个对象提供一个代理，并由代理对象控制对原对象的引用。
 
 &emsp;&emsp;CSDN博客地址：https://blog.csdn.net/zengxiantao1994/article/details/89388959
 <br/>
